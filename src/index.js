@@ -4,7 +4,7 @@ import {Route,Link,BrowserRouter  as Router } from "react-router-dom";
 import App from "./components/App";
 import './index.css';
 import About from "./about";
-import Contact from "./contact";
+import Contact from "./movie";
 
 const Routing =(
 <Router>
